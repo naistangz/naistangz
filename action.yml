@@ -1,3 +1,6 @@
+- name: Profile Readme Development Stats
+  uses: anmol098/waka-readme-stats@V1
+
 inputs:
   GH_TOKEN:
     description: 'GitHub access token with Repo scope'
