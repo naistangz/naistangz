@@ -7,10 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naistangz&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=naistangz.naistangz)
-
 - 💻 Experience in Flask, Jenkins, Terraform, Docker, Ansible and AWS
 - ☁️  Working towards AWS Cloud Practitioner Certification
 - 📖 Checkout my latest blog on [Medium](https://medium.com/@naistangz).
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=naistangz.naistangz)
