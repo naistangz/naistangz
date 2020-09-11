@@ -6,3 +6,6 @@
 <!--START_SECTION:waka-->
           
 <!--END_SECTION:waka-->
+
+**Find me on medium!** [HERE](https://medium.com/@naistangz/building-a-ci-cd-pipeline-for-a-node-js-app-with-docker-and-jenkins-ee6db6e70d25)
+
