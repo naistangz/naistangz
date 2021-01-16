@@ -1,4 +1,4 @@
-# Coucou! 你好! ¡Hola! Welcome to my Github!
+# Welcome to my Github!
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@naistangz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anais-tang)
