@@ -13,4 +13,6 @@
 - 📖 Checkout my latest blog on [Medium](https://medium.com/@naistangz)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=naistangz.naistangz)
+---
+### Codewar Stats
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/naistangz/badges/large)
