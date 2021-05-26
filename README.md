@@ -7,8 +7,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naistangz&hide=TeX&layout=compact)
 
-- 💻 Experience in Flask, Jenkins, Terraform, Docker, Ansible and AWS
-- ☁️  Working towards AWS Cloud Practitioner Certification
+- 💻 Currently developing applications using Django, Python, jQuery, HTML, CSS, Javascript, AWS, Celery
+- 🤓 Experience using Django, Flask, Jenkins, CircleCI, Terraform, Docker, Ansible and AWS
+- ☁️ Working towards AWS Cloud Practitioner Certification
 - 📖 Checkout my latest blog on [Medium](https://medium.com/@naistangz)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=naistangz.naistangz)
+![My Codewarrior Profile Badge](https://www.codewars.com/users/naistangz/badges/large)
