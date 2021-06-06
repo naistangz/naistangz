@@ -18,7 +18,6 @@ She/Her = {
 
 - 💻 Currently developing applications using Django, Python, jQuery, HTML, CSS, Javascript, AWS, Celery
 - 🤓 Experience using Django, Flask, Jenkins, CircleCI, Terraform, Docker, Ansible and AWS
-- ☁️ Working towards AWS Cloud Practitioner Certification
 - 📖 Checkout my latest blog on [Medium](https://medium.com/@naistangz)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=naistangz.naistangz)
