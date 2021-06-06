@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anais-tang)
 ![Codewars](https://www.codewars.com/users/naistangz/badges/micro)
 [![Anais' github stats](https://github-readme-stats.vercel.app/api?username=naistangz&show_icons=true&theme=synthwave)](https://github.com/naistangz/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naistangz&hide=TeX&layout=compact)
 
 ```python
  🥞 👩‍💻
@@ -14,6 +13,7 @@ She/Her = {
     computer_languages = ['Python', 'Javascript', 'Ruby', 'SQL', 'VBA'],
   }
 ```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naistangz&hide=TeX&layout=compact)
 
 
 - 💻 Currently developing applications using Django, Python, jQuery, HTML, CSS, Javascript, AWS, Celery
