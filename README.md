@@ -5,8 +5,5 @@
 ![Codewars](https://www.codewars.com/users/naistangz/badges/micro)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=naistangz.naistangz)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naistangz&hide=TeX&layout=compact)
-
-
 
 
